@@ -38,7 +38,7 @@
 
         $scope.count = 999;
         $scope.username = "angular";
-        $scope.message = "Awesome GitHub viewer";
+        $scope.message = "Totally Awesome GitHub viewer";
         $scope.repoSortOrder = "-stargazers_count";
 
     };
