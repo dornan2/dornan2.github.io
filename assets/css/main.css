@@ -1710,8 +1710,8 @@
 	}
 
 	#logo p {
-		color: #eee;
-		color: rgba(255, 255, 255, 0.5);
+		color: #9B989C;
+		/*color: rgba(255, 255, 255, 0.5);*/
 		text-transform: uppercase;
 	}
 
