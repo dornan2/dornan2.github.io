@@ -1895,6 +1895,7 @@
 
 			.feature-list p {
 				margin: 0 0 0 5em;
+				 padding-bottom: 4%;
 			}
 
 			.feature-list.small h3:before {
@@ -2391,6 +2392,7 @@
 
 			.feature-list p {
 				margin: 0 0 0 48px;
+				padding-bottom: 100%;
 			}
 
 		/* Box */
